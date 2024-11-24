@@ -254,7 +254,7 @@ section {
     margin: 0 auto;
 }
 .section-title {
-    font-size: 8px;
+    font-size: 80px;
     text-transform: uppercase;
     text-align: center;
     font-family: var(--title-font);
