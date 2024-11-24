@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="vi" class="sr"><head>
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
    <!-- Thêm Remix Icon -->
 <link href="https://cdn.jsdelivr.net/npm/remixicon/fonts/remixicon.css" rel="stylesheet">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
-		<meta property="og:image" content="thiep\H2H02500.jpg">
+		<meta property="og:image" content="https://thiepdientu.com.vn/wp-content/uploads/2024/01/2B90752A-19C2-4BC8-A33D-0CCCC6FA32E0-e1705040892710-1024x683.jpeg">
 		<title>Mẫu Thiệp Lãng Mạn – Thiệp cưới online</title>
 <meta name="robots" content="max-image-preview:large">
 	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
@@ -305,72 +303,72 @@ Minh Thư      </div>
           </div>
     <div class="album container">
                 <div class="album-item">
-            <a data-fancybox="gallery" href="thiep\H2H02567.jpg">
+            <a data-fancybox="gallery" href="https://thiepdientu.com.vn/wp-content/uploads/2024/01/E1688A8E-C5E3-49B3-A5B4-2AF6EB7F6BAF.jpeg">
                 <img src="thiep/H2H03021.jpg" alt="">
             </a>
         </div>
                 <div class="album-item">
-            <a data-fancybox="gallery" href="thiep\H2H02726.jpg">
+            <a data-fancybox="gallery" href="https://thiepdientu.com.vn/wp-content/uploads/2024/01/BEEFADED-A61C-4802-A47C-65450136B451.jpeg">
                 <img src="thiep/H2H02922.jpg" alt="">
             </a>
         </div>
                 <div class="album-item">
-            <a data-fancybox="gallery" href="thiep\H2H02748.jpg">
+            <a data-fancybox="gallery" href="https://thiepdientu.com.vn/wp-content/uploads/2024/01/A91CA144-C1FF-474D-B4D6-F3DAC89B3DB1.jpeg">
                 <img src="thiep/H2H02764.jpg" alt="">
             </a>
         </div>
                 <div class="album-item">
-            <a data-fancybox="gallery" href="thiep\H2H02764.jpg">
+            <a data-fancybox="gallery" href="https://thiepdientu.com.vn/wp-content/uploads/2024/01/680E95E0-8069-44F3-A286-4F8D81C2D425.jpeg">
                 <img src="thiep/H2H02748.jpg" alt="">
             </a>
         </div>
                 <div class="album-item">
-            <a data-fancybox="gallery" href="thiep\H2H02772.jpg">
+            <a data-fancybox="gallery" href="https://thiepdientu.com.vn/wp-content/uploads/2024/01/D6231ABF-3CCB-4FD4-B252-D0505AC48803.jpeg">
                 <img src="thiep/H2H02956.jpg" alt="">
             </a>
         </div>
                 <div class="album-item">
-            <a data-fancybox="gallery" href="thiep\H2H02796.jpg">
+            <a data-fancybox="gallery" href="https://thiepdientu.com.vn/wp-content/uploads/2024/01/0F3691F5-4ACA-48B8-810A-C4D0A766B998-e1705072255839.jpeg">
                 <img src="thiep/H2H02500.jpg" alt="">
             </a>
         </div>
                 <div class="album-item">
-            <a data-fancybox="gallery" href="thiep\H2H02881.jpg">
+            <a data-fancybox="gallery" href="https://thiepdientu.com.vn/wp-content/uploads/2024/01/67369EDA-AB9B-42BA-BB2C-8C1147C31E71.jpeg">
                 <img src="thiep/H2H02726.jpg" alt="">
             </a>
         </div>
                 <div class="album-item">
-            <a data-fancybox="gallery" href="thiep\H2H02922.jpg">
+            <a data-fancybox="gallery" href="https://thiepdientu.com.vn/wp-content/uploads/2024/01/D705C86D-1D18-430C-8ACD-C05F512F302F-e1705073822731.jpeg">
                 <img src="thiep/H2H02959.jpg" alt="">
             </a>
         </div>
                 <div class="album-item">
-            <a data-fancybox="gallery" href="thiep\H2H02956.jpg">
+            <a data-fancybox="gallery" href="https://thiepdientu.com.vn/wp-content/uploads/2024/01/AE583BCD-DFD5-4E52-901D-3A711D5DAA12.jpeg">
                 <img src="thiep/H2H02772.jpg" alt="">
             </a>
         </div>
                 <div class="album-item">
-            <a data-fancybox="gallery" href="thiep\H2H02959.jpg">
+            <a data-fancybox="gallery" href="https://thiepdientu.com.vn/wp-content/uploads/2024/01/FF508208-8C60-4E2D-862A-1E81D79CE9C7-e1705073693356.jpeg">
                 <img src="thiep/H2H03086.jpg" alt="">
             </a>
         </div>
                 <div class="album-item">
-            <a data-fancybox="gallery" href="thiep\H2H03021.jpg">
+            <a data-fancybox="gallery" href="https://thiepdientu.com.vn/wp-content/uploads/2024/01/E6BDD24D-609C-4722-BA61-B7F5213391D8.jpeg">
                 <img src="thiep/H2H03062.jpg" alt="">
             </a>
         </div>
                 <div class="album-item">
-            <a data-fancybox="gallery" href="thiep\H2H03048.jpg">
+            <a data-fancybox="gallery" href="https://thiepdientu.com.vn/wp-content/uploads/2024/01/2B90752A-19C2-4BC8-A33D-0CCCC6FA32E0-e1705040892710.jpeg">
                 <img src="thiep/H2H02567.jpg" alt="">
             </a>
         </div>
                 <div class="album-item">
-            <a data-fancybox="gallery" href="thiep\H2H03062.jpg">
+            <a data-fancybox="gallery" href="https://thiepdientu.com.vn/wp-content/uploads/2024/01/F38950F8-62A2-4FC3-B2FD-5C8B5438114E-e1705040910718.jpeg">
                 <img src="thiep/H2H03074.jpg" alt="">
             </a>
         </div>
                 <div class="album-item">
-            <a data-fancybox="gallery" href="thiep\H2H03074.jpg">
+            <a data-fancybox="gallery" href="https://thiepdientu.com.vn/wp-content/uploads/2024/01/E3F7CC09-A2B0-4F8C-852F-B27DF96A6A9B-e1705040930946.jpeg">
                 <img src="thiep/H2H03048.jpg" alt="">
             </a>
         </div>
@@ -612,16 +610,16 @@ $(document).ready(function(){
       f_select = $('#wedding-select').find('option:selected').val()
       f_text = $(this).find('#f_text').val()
       var form_data = {
-          'entry.864868914': f_userName,
-          'entry.180013605': f_check,
-          'entry.1366322799': f_name,
-          'entry.191245282': f_numUser,
-          'entry.586600612': f_select,
-          'entry.718210620': f_text,
+          'entry.737056527': f_userName,
+          'entry.642873731': f_check,
+          'entry.1699210899': f_name,
+          'entry.369695229': f_numUser,
+          'entry.1528762541': f_select,
+          'entry.1679764871': f_text,
       }
      $('.wedding-submit[type="submit"]').text('Đang gửi ...')
      $.ajax({
-      url: "https://docs.google.com/forms/d/e/1FAIpQLSeYwyXe7diOTj8lR_QZSSsCWzVy2JnKgoCxV4U5zJyOL8N1cg/formResponse",
+      url: "https://docs.google.com/forms/u/0/d/e/1FAIpQLSdD9g3WsFXklx1iJ2WTwnaKq7qXDh8fLcOetjSV8GMatzoWaA/formResponse",
       type: "POST",
       data : form_data,
       dataType: "xml",
@@ -646,110 +644,95 @@ $(document).ready(function(){
 </script>
 <!-- END FORM XÁC NHẬN -->
 
-
-
-
-<!-- END FORM XÁC NHẬN -->
-
 <!-- LỜI CHÚC -->
 <!-- TIN NHẮN -->
 <section id="message" class="section-message uk-background-cover uk-section" style="background-image:url(thiep/H2H03149.jpg); display:block">
-  <div class="uk-position-cover uk-overlay uk-overlay-primary" style="opacity:.5"> </div>
-  <div class="message-container container uk-position-relative uk-position-z-index">
-      <h2 class="section-title uk-light" style="color:white">
-        Gửi lời chúc đến cặp đôi
-      </h2>
-      <div class="list_message"></div>
-
-      <div class="uk-padding-small uk-border-rounded blur-bg" style="border:1px solid white">
+	<div class="uk-position-cover uk-overlay uk-overlay-primary" style="opacity:.5"> </div>
+      <div class="message-container container uk-position-relative uk-position-z-index">
+        <h2 class="section-title uk-light" style="color:white">
+          Gửi lời chúc đến cặp đôi        </h2>
+        <div class="list_message"></div>
+       
+        <div class="uk-padding-small uk-border-rounded blur-bg" style="border:1px solid white">
+			
           <h3 class="form-title" style="color:white">Gửi lời chúc</h3>
           <form action="" id="messageForm" method="POST">
-              <input type="hidden" id="postId" value="1077">
-              <div class="input-group uk-margin-top" style="color:white">
-                  <label for="">Tên của bạn</label>
-                  <input style="border:1px solid white" id="m_name" type="text" class="input blur-bg" required="">
-              </div>
-              <div class="input-group uk-margin-top">
-                  <label for="" style="color:white">Lời nhắn gửi</label>
-                  <textarea style="border:1px solid white; color:white" id="m_text" class="input-text text-white blur-bg" name="" cols="30" rows="5" required=""></textarea>
-              </div>
-              <button type="submit" class="btn btn-primary send_message uk-margin-top" style="color:white">Gửi lời chúc</button>
+		
+          <input type="hidden" id="postId" value="1077">
+            <div class="input-group uk-margin-top" style="color:white">
+              <label for="">
+                Tên của bạn              </label>
+              <input style="border:1px solid white" id="m_name" type="text" class="input blur-bg" required="">
+            </div>
+            <div class="input-group uk-margin-top">
+              <label for="" style="color:white">
+                Lời nhắn gửi              </label>
+              <textarea style="border:1px solid white; color:white" id="m_text" class="input-text text-white blur-bg" name="" cols="30" rows="5" required=""></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary send_message uk-margin-top" style="color:white">Gửi lời chúc</button>
           </form>
+        </div>
       </div>
-  </div>
-</section>
-<!-- END TIN NHẮN -->
-
+    </section>
+    <!-- END TIN NHẮN -->
 <script>
-fetch('https://dangthuthiepcuoi.wordpress.com/2024/11/25/loi-chuc-thiep-cuoi/comment-page-1/?_gl=1%2Algpdp0%2A_gcl_au%2AMTgyMjkzNDU5MC4xNzMyNDc3MDM3#comment-2', {
-    method: 'GET',
-})
-.then(response => response.json())
-.then(data => {
-  let mess_item = '';
-  if (data.length === 0) {
-      mess_item = '<p>Chưa có lời chúc nào!</p>';
-  } else {
-      for (let i in data) {
-          const c_author = data[i].author_name;
-          const c_content = data[i].content.rendered;
-
-          mess_item += `
-              <div class="blur-bg uk-padding-small uk-border-rounded uk-light">
-                  <h3 class="user_message">${c_author}</h3>
-                  <p class="message_body">${c_content}</p>
-              </div>`;
-      }
-  }
-  document.querySelector('.list_message').innerHTML = mess_item;
-})
-.catch(error => console.error('Error fetching comments:', error));
-
-// Handle form submission
-document.getElementById('messageForm').addEventListener('submit', function (e) {
-  e.preventDefault();
-  const postId = document.getElementById('postId').value;
-  const name = document.getElementById('m_name').value;
-  const mess = document.getElementById('m_text').value;
-
-  const data = JSON.stringify({
-      post: postId,
-      author_name: name,
-      content: mess,
-  });
-
-  fetch(API_BASE, {
-      method: 'POST',
-      headers: {
-          'Content-Type': 'application/json',
-      },
-      body: data,
+fetch('/wp-json/wp/v2/comments?post=1077&per_page=100',
+    {
+     method: 'GET',
+    }
+    )
+    
+  .then(response => response.json())
+  .then(data => {
+    mess_item = ''
+    for(let i in data){
+        if(!i) {
+          $('.list_message').attr('class','hidden')
+        }
+        c_author = data[i].author_name
+        c_content = data[i].content.rendered
+       
+        mess_item += '<div class="blur-bg uk-padding-small uk-border-rounded uk-light"> <h3 class="user_message">'+c_author+'</h3> <p class="message_body">'+c_content+'</p> </div>'
+    }
+    $('.list_message').html(mess_item)
   })
-  .then(response => {
-      if (response.ok) {
-          const mess_new = `
-              <div class="uk-light blur-bg uk-padding-small uk-border-rounded" data-aos="fade-up" data-aos-duration="2000">
-                  <i class="bx bxs-quote-alt-left"></i>
-                  <h3 class="user_message">${name}</h3>
-                  <p class="message_body">${mess}</p>
-              </div>`;
-          document.querySelector('.list_message').insertAdjacentHTML('afterbegin', mess_new);
-          document.getElementById('messageForm').reset();
+
+  //FORM
+ $('#messageForm').submit(function (e) { 
+  e.preventDefault();
+  const postId = $(this).find('#postId').val()
+  const name = $(this).find('#m_name').val()
+  const mess = $(this).find('#m_text').val()
+  const data = JSON.stringify({
+    post: postId,
+    author_name: name,
+    content: mess,
+  });
+  ACTION_URL = '/wp-json/wp/v2/comments'
+  fetch(ACTION_URL, {
+    method: 'post',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: data,
+  })
+    .then((response) => {
+      if (response.ok === true) {
+        mess_new = '<div class=" uk-light blur-bg uk-padding-small uk-border-rounded" data-aos="fade-up" data-aos-duration="2000"> <i class="bx bxs-quote-alt-left"></i> <h3 class="user_message">'+name+'</h3> <p class="message_body">'+mess+'</p> </div>'
+        $('.list_message').prepend(mess_new)
+        $('#messageForm')[0].reset()
       }
       return response.json();
-  })
-  .then(object => {
-      if (!object) {
-          console.error('Error in response:', object);
-      }
-  })
-  .catch(error => console.error('Error submitting comment:', error));
-});
+    })
+    .then((object) => {
+      // Comment submission failed.
+      // Output `object.message` to see the error message.
+    })
+    .catch(error => console.error('Error:', error));
+ });
+ 
 </script>
 <!-- END LỜI CHÚC -->
-
-
-
 <!-- GỬI QUÀ -->
 
 
