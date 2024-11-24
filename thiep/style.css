@@ -387,7 +387,7 @@ section {
 }
 .banner .name {
     font-size: 24px;
-    font-weight: 600;
+    font-weight: 1000;
     font-family: var(--title-font);
     display: grid;
     align-items: center;
@@ -781,7 +781,7 @@ section {
 /* Largest devices such as desktops (1280px and up) */
 @media (min-width: 1280px) {
     .banner .name{
-        font-size: 40px;
+        font-size: 80px;
     }
     
 }
