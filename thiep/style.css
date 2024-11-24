@@ -742,6 +742,73 @@ section {
 
 /* ====== RESPONSIVE ======= */
 /* Small devices such as large phones (640px and up) */
+/* ====== RESPONSIVE ======= */
+/* Default styles for all devices */
+.btn span {
+    display: inline-block;
+}
+.time-line-item {
+    font-size: 16px;
+}
+.about {
+    grid-template-columns: 1fr;
+    column-gap: 16px;
+}
+.album {
+    grid-template-columns: 1fr;
+}
+
+/* Small devices such as large phones (640px and up) */
+@media (min-width: 40em) {
+    .btn span {
+        display: block;
+    }
+    .about {
+        grid-template-columns: repeat(2, 1fr);
+        column-gap: 24px;
+    }
+    .time-line-item {
+        font-size: 20px;
+    }
+}
+
+/* Medium devices such as tablets (768px and up) */
+@media (min-width: 48em) {
+    .time-line-item {
+        font-size: 24px;
+    }
+    .invitation {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .right-fixed i {
+        font-size: 20px;
+    }
+}
+
+/* Large devices such as laptops (1024px and up) */
+@media (min-width: 64em) {
+    .about-groom, .about-bride {
+        padding: 20px 40px;
+    }
+    .album {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .time-line-item {
+        font-size: 28px;
+    }
+}
+
+/* Largest devices such as desktops (1280px and up) */
+@media (min-width: 1280px) {
+    .banner .name {
+        font-size: 80px;
+    }
+    .album {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+/*
 @media  (min-width: 40em) {
     .btn span {
         display:block;
@@ -755,7 +822,7 @@ section {
     }
 }
 
-/* Medium devices such as tablets (768px and up) */
+/* Medium devices such as tablets (768px and up) 
 @media (min-width: 48em) {
     .time-line-item {
         font-size: 36px;
@@ -768,7 +835,7 @@ section {
     }
 }
 
-/* Large devices such as laptops (1024px and up) */
+/* Large devices such as laptops (1024px and up) 
 @media (min-width: 64em) {
     .about-groom, .about-bride {
        padding: 40px 80px;
@@ -778,10 +845,10 @@ section {
     }
 }
 
-/* Largest devices such as desktops (1280px and up) */
+/* Largest devices such as desktops (1280px and up) 
 @media (min-width: 1280px) {
     .banner .name{
         font-size: 80px;
     }
     
-}
+} */
