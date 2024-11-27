@@ -24,10 +24,10 @@
 
 
   * {
-    font-family: main-font;
+    font-family: var(--body-font);
   }
   body{
-    font-family: main-font !important;
+    font-family: var(--body-font);
     font-size: 16px;
   }
 
