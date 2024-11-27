@@ -368,8 +368,12 @@ section {
    margin-top: 40px;
 }
 .banner_time {
-    font-size: 24px;
+    font-size: 40px;
 }
+.banner_date {
+    font-size: 80px;
+}
+
 .time::before {
     content: " ";
     width:100%;
@@ -398,8 +402,8 @@ section {
     font-family: var(--script-font);
 }
 .location-name {
-    font-size: 20px;
-    font-family: var(--title-font) !important;
+    font-size: 60px;
+    font-family: var(--title-font);
 }
 /* ABOUT */
 .about-section {
