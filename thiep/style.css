@@ -6,6 +6,7 @@
     --bg :rgb(255 255 255 / 33%);
     --second-color : ;
     --text-white : #fff ; 
+    --text-yellow : #faf610 ; 
     --text-black : ;
     --body-bg : ;
     --main-bg : ;
@@ -368,7 +369,7 @@ section {
    margin-top: 40px;
 }
 .banner_time {
-    font-size: 40px;
+    font-size: 20px;
 }
 .banner_date {
     font-size: 60px;
@@ -397,13 +398,20 @@ section {
     display: grid;
     align-items: center;
     column-gap: 20px;
+    text-stroke: 10px red;
+    text-shadow: 
+    2px 2px 0 red, 
+    -2px 2px 0 red, 
+    2px -2px 0 red, 
+    -2px -2px 0 red;
 }
 .banner .name span {
     font-family: var(--script-font);
 }
 .location-name {
-    font-size: 60px;
+    font-size: 80px;
     font-family: var(--title-font);
+    color: var(--text-yellow);
 }
 /* ABOUT */
 .about-section {
