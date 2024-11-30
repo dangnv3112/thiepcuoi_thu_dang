@@ -375,7 +375,7 @@ box-shadow: inset 0 0 0 2000px rgba(152, 152, 152, 0.47);
     font-size: 40px;
 }
 .banner_date {
-    font-size: 50px;
+    font-size: 30px;
 }
 
 .time::before {
@@ -829,7 +829,7 @@ box-shadow: inset 0 0 0 2000px rgba(152, 152, 152, 0.47);
 /* Largest devices such as desktops (1280px and up) */
 @media (min-width: 1280px) {
     .banner .name {
-        font-size: 40px;
+        font-size: 80px;
     }
     .album {
         grid-template-columns: repeat(4, 1fr);
