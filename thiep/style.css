@@ -413,6 +413,12 @@ section {
     font-family: var(--title-font);
     color: var(--text-yellow);
 }
+.location-name2 {
+    font-size: 40px;
+    font-family: var(--title-font);
+    color: var(--text-yellow);
+    text-stroke: 2px yellow;
+}
 /* ABOUT */
 .about-section {
     position: relative;
@@ -575,7 +581,7 @@ section {
     padding: 80px 0;
 }
 #invitation .section-title {
-    color: var(--primary-color);
+    color: white;
 }
 .invitation-container {
     margin-top: 40px;
@@ -590,7 +596,7 @@ section {
     align-items: center;
     padding: 20px;
     gap: 12px;
-    background-color: var(--bg);
+    background-color: pink;
     border-radius:12px;
     max-width: 100%;
     text-align: center;
@@ -711,7 +717,7 @@ section {
   }
 
 .section-gift .section-title{
-    color: var(--primary-color);
+    color: black;
 }
 /* THANK YOU */
 .section-thankyou{
