@@ -485,6 +485,8 @@ box-shadow: inset 0 0 0 2000px rgba(152, 152, 152, 0.47);
 .about-card .body .groom_name {
     font-family:var(--script-font);
     font-size: 24px;
+    color:red;
+	
 }
 .about-card .body .father_groom, .about-card .body .mother_groom {
     font-family: var(--title-font);
