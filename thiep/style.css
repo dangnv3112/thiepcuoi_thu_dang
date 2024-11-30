@@ -344,11 +344,11 @@ box-shadow: inset 0 0 0 2000px rgba(152, 152, 152, 0.47);
     display: grid;
     row-gap: 10px;
     background-color: rgba(255, 255, 255, 0.145);
-    padding: 100px 60px;
+    padding: 30px 60px;
     border-radius: 999px 999px 0 0;
     aspect-ratio: 1/1;
-    backdrop-filter: blur(1px);
-    -webkit-backdrop-filter: blur(1px);
+    backdrop-filter: blur(0.75px);
+    -webkit-backdrop-filter: blur(0.75px);
     border: 1px solid rgba(236, 236, 236, 0.258);
 }
 .banner .data p {
@@ -401,12 +401,12 @@ box-shadow: inset 0 0 0 2000px rgba(152, 152, 152, 0.47);
     display: grid;
     align-items: center;
     column-gap: 20px;
-    text-stroke: 1px red;
+    text-stroke: 5px red;
     text-shadow: 
-    2px 2px 0 red, 
-    -2px 2px 0 red, 
-    2px -2px 0 red, 
-    -2px -2px 0 red;
+    2px 3px 0 red, 
+    0px 2px 0 red, 
+    0px 0px 0 red, 
+    0px 0px 0 red;
 }
 .banner .name span {
     font-family: var(--script-font);
