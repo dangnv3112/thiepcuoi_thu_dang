@@ -268,7 +268,7 @@ section {
     rgba(0 0 0 /.6)
 }
 .bg_overlay_1 {
-box-shadow: inset 0 0 0 2000px rgba(152, 152, 152, 0.42);
+box-shadow: inset 0 0 0 2000px rgba(152, 152, 152, 0.47);
 }
 .img_bg {
   background-position: center;
