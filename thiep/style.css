@@ -250,7 +250,7 @@ section {
 }
 .section-heading {
     text-align: center;
-    padding: 24px 0;
+    padding: 0px 0;
     max-width: 1024px;
     margin: 0 auto;
 }
@@ -422,10 +422,10 @@ box-shadow: inset 0 0 0 2000px rgba(152, 152, 152, 0.47);
     color: var(--text-yellow);
     text-stroke: 1px red;
     text-shadow: 
-    2px 2px 0 red, 
-    -2px 2px 0 red, 
-    2px -2px 0 red, 
-    -2px -2px 0 red;
+    2px 3px 0 red, 
+    0px 0px 0 red, 
+    0px 0px 0 red, 
+    0px 0px 0 red;
 }
 /* ABOUT */
 .about-section {
@@ -583,7 +583,9 @@ box-shadow: inset 0 0 0 2000px rgba(152, 152, 152, 0.47);
 .album-item:hover img {
     transform: scale(1.2);
 }
-
+.bold-text {
+    font-weight: bold; /* Chữ in đậm */
+}
 /* INVITATION */
 #invitation {
     padding: 5px 0;
