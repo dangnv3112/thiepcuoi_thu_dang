@@ -310,7 +310,7 @@ box-shadow: inset 0 0 0 2000px rgba(152, 152, 152, 0.47);
 /* ====== MAIN CSS ============ */
 .banner {
     position: relative;
-    min-height: 100vh;
+    min-height: 50vh;
     display: grid;
     justify-items: center;
     align-items: center;
@@ -375,7 +375,7 @@ box-shadow: inset 0 0 0 2000px rgba(152, 152, 152, 0.47);
     font-size: 40px;
 }
 .banner_date {
-    font-size: 60px;
+    font-size: 50px;
 }
 
 .time::before {
