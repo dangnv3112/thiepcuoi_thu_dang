@@ -8974,8 +8974,7 @@
 
     <!-- TIMELINE -->
 
-    <section id="time-line" class="time-line-section img_bg bg_overlay_1"
-        style="background-image:url(thiep/filecuoi/H2H02881.jpg)">
+    <section id="time-line" class="time-line-section img_bg " style="background-image:url(thiep/filecuoi/H2H02881.jpg)">
 
         <div class="time-line container">
 
@@ -9605,64 +9604,65 @@
     <!-- FROM XÁC NHẬN -->
 
 
-    <section id="form" action="" class="time-line-section img_bg bg_overlay_1 " method="post" id="form-wedding"
-        style="background-image:url(thiep/filecuoi/H2H03193-min.jpg)">
-        <h2 class=" uk-heading-small uk-text-center script-font">Xác nhận tham dự</h2>
-        <p class="sub-title">Hãy cho chúng tôi biết bạn sẽ đến tham dự nhé!</p>
-        <div class="form-container">
-            <div class="group-radio">
-                <label class="radio-container">TƯ GIA NHÀ GÁI <span class="tooltip">
-                        <p>ẤP TÂN PHÚ A, XÃ TÂN BÌNH, HUYỆN THANH BÌNH, TỈNH ĐỒNG THÁP</p>
-                    </span>
-                    <input type="radio" name="fav_language" id="nha_trai" value="TƯ GIA NHÀ GÁI">
-                    <span class="checkmark"></span>
-                </label>
+    <section id="form" action="" class="time-line-section img_bg " method="post" id="form-wedding"
+        style="background-image:url(thiep/filecuoi/H2H02843.jpg)">
+        <form action="" method="post" id="form-wedding">
+            <h2 class=" uk-heading-small uk-text-center script-font">Xác nhận tham dự</h2>
+            <p class="sub-title">Hãy cho chúng tôi biết bạn sẽ đến tham dự nhé!</p>
+            <div class="form-container">
+                <div class="group-radio">
+                    <label class="radio-container">TƯ GIA NHÀ GÁI <span class="tooltip">
+                            <p>ẤP TÂN PHÚ A, XÃ TÂN BÌNH, HUYỆN THANH BÌNH, TỈNH ĐỒNG THÁP</p>
+                        </span>
+                        <input type="radio" name="fav_language" id="nha_trai" value="TƯ GIA NHÀ GÁI">
+                        <span class="checkmark"></span>
+                    </label>
 
-                <label class="radio-container">TƯ GIA NHÀ TRAI <span class="tooltip">
-                        <p>ẤP HẠ, XÃ TÂN BÌNH, HUYỆN THANH BÌNH, TỈNH ĐỒNG THÁP</p>
-                    </span>
-                    <input type="radio" name="fav_language" id="nha_trai" value="TƯ GIA NHÀ TRAI">
-                    <span class="checkmark"></span>
-                </label>
+                    <label class="radio-container">TƯ GIA NHÀ TRAI <span class="tooltip">
+                            <p>ẤP HẠ, XÃ TÂN BÌNH, HUYỆN THANH BÌNH, TỈNH ĐỒNG THÁP</p>
+                        </span>
+                        <input type="radio" name="fav_language" id="nha_trai" value="TƯ GIA NHÀ TRAI">
+                        <span class="checkmark"></span>
+                    </label>
 
-            </div>
-            <div class="group-input">
-                <label>Tên Khách Mời</label>
-                <input type="text" class="input" id="f_name" required="" placeholder="Tên Khách Mời">
-            </div>
-
-            <div class="group-input">
-                <p class="group-title"></p>
-                <div class="group-select">
-                    <select name="" id="wedding-select" class="uk-text-truncate" style="max-width:320px">
-                        <option value="Có tôi sẽ đến" selected="selected">Có tôi sẽ đến </option>
-                        <option value="Xin Lỗi tôi không tham dự được !">Xin Lỗi tôi không tham dự được !
-                        </option>
-                    </select>
-                    <i class="bx bx-chevron-down"></i>
                 </div>
-                <div class="group-select">
-                    <select name="" id="num_user">
-                        <option value="1 Người" selected="selected">1 Người </option>
-                        <option value="2 Người">2 Người</option>
-                        <option value="3 Người">3 Người</option>
-                    </select>
-                    <i class="bx bx-chevron-down"></i>
+                <div class="group-input">
+                    <label>Tên Khách Mời</label>
+                    <input type="text" class="input" id="f_name" required="" placeholder="Tên Khách Mời">
+                </div>
+
+                <div class="group-input">
+                    <p class="group-title"></p>
+                    <div class="group-select">
+                        <select name="" id="wedding-select" class="uk-text-truncate" style="max-width:320px">
+                            <option value="Có tôi sẽ đến" selected="selected">Có tôi sẽ đến </option>
+                            <option value="Xin Lỗi tôi không tham dự được !">Xin Lỗi tôi không tham dự được !
+                            </option>
+                        </select>
+                        <i class="bx bx-chevron-down"></i>
+                    </div>
+                    <div class="group-select">
+                        <select name="" id="num_user">
+                            <option value="1 Người" selected="selected">1 Người </option>
+                            <option value="2 Người">2 Người</option>
+                            <option value="3 Người">3 Người</option>
+                        </select>
+                        <i class="bx bx-chevron-down"></i>
+                    </div>
+                </div>
+                <div class="group-input">
+                    <label></label>
+                    <textarea name="" id="f_text" cols="30" rows="4">          </textarea>
+                </div>
+                <div class="message-form" style="display: none;">
+
+                </div>
+                <div class="group-input">
+                    <button type="submit" class="wedding-submit">Xác nhận</button>
                 </div>
             </div>
-            <div class="group-input">
-                <label></label>
-                <textarea name="" id="f_text" cols="30" rows="4">          </textarea>
-            </div>
-            <div class="message-form" style="display: none;">
 
-            </div>
-            <div class="group-input">
-                <button type="submit" class="wedding-submit">Xác nhận</button>
-            </div>
-        </div>
-
-
+        </form>
 
     </section>
 
@@ -9795,8 +9795,8 @@
 
     <!-- THANKYOU -->
     <!-- THANK YOU -->
-    <section id="thankyou" class=" section-thankyou bg_overlay uk-position-z-index">
-        <div class="uk-overlay uk-overlay-primary uk-position-cover"> </div>
+    <section id="thankyou" class=" section-thankyou uk-position-z-index">
+        <div class=" uk-position-cover"> </div>
         <img src="thiep/filecuoi/H2H02959.jpg" alt="" class="thankyou-bg thankyou_img" style="object-position:">
         <div class="thankyou-body container uk-position-relative uk-position-z-index">
             <h2 class="banner script-font uk-heading-medium uk-text-center text-white aos-init" data-aos="fade-up"
