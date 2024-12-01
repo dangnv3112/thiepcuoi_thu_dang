@@ -494,7 +494,7 @@ padding-top: 0; text-align: center;
 }
 .about-card .body .father_groom, .about-card .body .mother_groom {
     font-family: var(--title-font);
-    font-size: 24px;
+    font-size: 20px;
 }
 /* END ABOUT */
 
