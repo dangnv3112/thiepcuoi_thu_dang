@@ -338,9 +338,7 @@
 
     margin-top: 12px;
 
-    max-width: 600px;     /* Giới hạn chiều rộng tối đa */
-    padding: 24px;        /* Tăng khoảng cách bên trong container */
-    box-sizing: border-box; /* Bao gồm padding trong kích thước tổng */
+
 
 }
 
