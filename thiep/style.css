@@ -504,7 +504,7 @@ padding-top: 0; text-align: center;
     display: grid;
     justify-content: center;
     padding: 120px 0;
-    margin-top: 80px;
+    margin-top: 0px;
     color: white;
     z-index: 9;
 }
@@ -612,11 +612,11 @@ padding-top: 0; text-align: center;
     align-items: center;
     padding: 20px;
     gap: 12px;
-    background-color: pink;
+    background-color: #EFEFEF;
     border-radius:12px;
     max-width: 100%;
     text-align: center;
-    border: 1px solid var(--primary-color);
+    border: 1px solid rgb(0, 0, 0);
 }
 .invitation-card img {
     max-width: 120px;
