@@ -246,7 +246,7 @@ section {
 .container{
     max-width: 1024px;
     margin: auto;
-    padding: 24px;
+    padding: 54px;
 }
 .section-heading {
     text-align: center;
@@ -558,7 +558,7 @@ padding-top: 0; text-align: center;
     font-family: var(--title-font);
 }
 .timeline-body .title {
-    font-size: 24px;
+    font-size: 34px;
     font-family: var(--script-font);
 }
 /* ALBUM */
@@ -748,10 +748,10 @@ padding-top: 0; text-align: center;
     color: white;
 }
 .thankyou-body {
-    display: flex;
+    display: grid;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    justify-content: top;
+    align-items: top;
 }
 .thankyou-bg {
     position: absolute;

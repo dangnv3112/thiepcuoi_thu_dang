@@ -8949,7 +8949,7 @@
                 style="opacity:.25">
                 <div class="media">
                     <img src="thiep/filecuoi/chure.jpg" alt="" class="groom-img groom_img">
-                    <span style="color: white;">
+                    <span style="color: black;">
                         Nhà Trai
                         <img src="thiep/men-icon.png" alt="">
                     </span>
@@ -9015,9 +9015,7 @@
                         <span class="title">Lần đầu gặp gỡ</span>
 
                         <p class="timeline-des uk-margin-remove"></p>
-                        <p>Ngày ấy vu vơ đăng một dòng status trên facebook than thở, vu vơ đùa giỡn nói chuyện với
-                            một
-                            người xa lạ chưa từng quen.</p>
+
                         <p></p>
 
                     </div>
@@ -9040,8 +9038,7 @@
                         <span class="title">Hẹn hò</span>
 
                         <p class="timeline-des uk-margin-remove"></p>
-                        <p>Mỗi chiều cuối tuần thường chạy xe vòng quanh qua những con phố, len lỏi trong từng dòng
-                            người tấp nập</p>
+
                         <p></p>
 
                     </div>
@@ -9065,9 +9062,7 @@
                         <span class="title">Đính hôn</span>
 
                         <p class="timeline-des uk-margin-remove"></p>
-                        <p>Chúng ta từ 2 con người xa lạ mà bước vào cuộc đời nhau. Và giờ đây chúng ta tiếp tục
-                            cùng
-                            nhau sang trang mới.</p>
+
                         <p></p>
 
                     </div>
@@ -9761,10 +9756,12 @@
     <!-- THANK YOU -->
     <section id="thankyou" class=" section-thankyou uk-position-z-index">
         <div class=" uk-position-cover"> </div>
-        <img src="thiep/filecuoi/H2H02959.jpg" alt="" class="thankyou-bg thankyou_img" style="object-position:">
-        <div class="thankyou-body container uk-position-relative uk-position-z-index">
-            <h2 class="banner script-font uk-heading-medium uk-text-center text-white aos-init" data-aos="fade-up"
-                data-aos-duration="2000" style="font-family: var(--script-font)">Thank you!</h2>
+        <img src="thiep/filecuoi/H2H03281-min.jpg" alt="" class="thankyou-bg thankyou_img" style="object-position:">
+        <div class="thankyou-body uk-position-relative uk-position-z-index"
+            style="display: grid;align-items: flex-start;font-family: var(--script-font);align-items: flex-start">
+            <h2 class="script-font uk-heading-medium uk-text-center aos-init" data-aos="fade-up"
+                data-aos-duration="2000" style=" font-family: var(--script-font);   align-items: flex-start">
+                Thank you!</h2>
             <p class="thankyou-des aos-init" data-aos="fade" data-aos-duration="3000"></p>
             <p>Sự hiện diện của quý vị là niềm vui và vinh hạnh cho gia đình chúng tôi, Chân thành cám ơn !</p>
             <p><br>
@@ -9820,8 +9817,89 @@
             })
         } catch (e) { console.log('Error embed extra_script') }</script>
 
+    <style>
+        /* CSS cho nút */
+        #scrollToTopBtn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            display: none;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            font-size: 18px;
+            cursor: pointer;
+            z-index: 1000;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        #scrollToTopBtn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+
+</body>
+<title>Nút Trượt Lên</title>
+<style>
+    /* CSS cho nút */
+    #scrollToTopBtn {
+        position: flex;
+        bottom: 20px;
+        right: 20px;
+        display: none;
+        background-color: #007BFF;
+        color: white;
+        border: none;
+        border-radius: 50%;
+        width: 50px;
+        height: 50px;
+        font-size: 18px;
+        cursor: pointer;
+        z-index: 1000;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        justify-content: center;
+        /* Căn giữa theo chiều ngang */
+        align-items: center;
+    }
+
+    #scrollToTopBtn:hover {
+        background-color: #0056b3;
+        align-items: center;
+        justify-content: center;
+        margin: 0
+    }
+</style>
+
+<body>
 
 
+    <!-- Nút lên đầu trang -->
+    <button id="scrollToTopBtn" title="Lên đầu trang" style="align-items: center;justify-content: center;margin: 0">
+        ⬆</button>
+    <img draggable="false" role="img" class="emoji" alt="⬆" src="https://s.w.org/images/core/emoji/15.0.3/svg/2b06.svg"
+        style="align-items: center;justify-content: center;margin: 0">
+    <script>
+        // JavaScript cho nút
+        const scrollToTopBtn = document.getElementById("scrollToTopBtn");
+
+        window.onscroll = function () {
+            if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+                scrollToTopBtn.style.display = "block";
+            } else {
+                scrollToTopBtn.style.display = "none";
+            }
+        };
+
+        scrollToTopBtn.onclick = function () {
+            window.scrollTo({
+                top: 0,
+                behavior: "smooth"
+            });
+        };
+    </script>
 </body>
 
 </html>
