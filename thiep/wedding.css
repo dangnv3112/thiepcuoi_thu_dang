@@ -490,7 +490,8 @@
 
     padding: 8px 20px;
 
-    text-align: left;
+    text-align: center;
+    font-size: 24px;
 
 }
 
@@ -508,7 +509,7 @@ textarea {
 
     border: 1px solid rgb(176, 176, 176);
 
-    color: black;
+    color: white;
 
     text-align: left;
 
@@ -517,6 +518,7 @@ textarea {
     max-width:90%;
 
     margin:0 auto;
+    font-size: 24px;
 
 }
 
@@ -592,7 +594,7 @@ select {
 
     padding: 20px;
 
-    background-color: rgb(217, 243, 217);
+    background-color: rgba(18, 220, 18, 0.76);
 
     width: 100%;
 
