@@ -9119,6 +9119,172 @@
 
     <!-- END TIMELINE -->
 
+
+    <!-- INVITATION -->
+    <section id="invitation" class="section-invitation">
+        <div class="container">
+            <div class="section-heading">
+                <h2 class="section-title">
+                </h2>
+            </div>
+            <div class="invitation">
+                <div class="invitation-container">
+                    <div class="invitation-card"> <img src="thiep/H2H02922.jpg" alt="">
+                        <h3 class="card-title uk-margin-remove bold-text" style="color: red;text-stroke: 5px yellow">
+                            TRÂN TRỌNG
+                            KÍNH MỜI</h3>
+                        <address class="uk-margin-remove">
+                            <p>Đến Dự Buổi Tiệc Rượu Chung Vui Cùng Gia Đình Chúng Tôi<br>tại<br></p>
+                            <h3 class="location-name2 bold-text bold-text">Trung Tâm Tiệc Cưới Happy Gold<br></h3>
+                            <p>650 Đ. Lũy Bán Bích, Tân Thành, Tân Phú, Hồ Chí Minh</p>
+                        </address>
+                        <div class="invitation-body">
+                            <div class="invi_time">
+                                <p class="fw-bold">Vào lúc
+                                    <span class="invi_hours">
+                                        11:30 </span>
+                                </p>
+                                <div class="invi_group_time">
+
+                                    <span class="invi_date_text">
+                                        Chủ Nhật </span>
+                                    <span class="invi_date_number">
+                                        <p class="invi_date">15</p> /
+                                        <p class="invi_month">12</p>
+                                    </span>
+                                    <span class="invi_year_text">
+                                        2024 </span>
+                                </div>
+
+                                <p class="invi_amlich">Nhằm ngày 15 tháng 11 năm Giáp Thìn</p>
+                            </div>
+
+                        </div>
+                        <div class="social-link">
+                            <a href="tel:(+84)862744290" class="phone_number">
+                                <i class="ri-phone-fill"></i>
+
+                                <a href="https://www.google.com/maps/place/Trung+T%C3%A2m+Ti%E1%BB%87c+C%C6%B0%E1%BB%9Bi+H%E1%BB%99i+Ngh%E1%BB%8B+Happy+Gold/@10.788858,106.6375023,15z/data=!4m2!3m1!1s0x0:0x981478cbf522879?sa=X&ved=1t:2428&ictx=111"
+                                    class="invi_map" target="_blank">
+                                    <i class="ri-map-2-fill"></i>
+                                </a>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- END INVITATION -->
+    <!-- FORM XÁC NHẬN -->
+    <!-- FROM XÁC NHẬN -->
+
+
+    <section id="form" action="" class="uk-background-cover uk-section uk-section-large uk-text-center uk-light"
+        method="post" id="form-wedding" style="background-image:url(thiep/filecuoi/H2H02843.jpg)">
+        <form action="" method="post" id="form-wedding">
+            <h2 class=" uk-text-center script-font bold-text" style="color: white ">XÁC
+                NHẬN THAM DỰ
+            </h2>
+            <p class=" sub-title bold-text">Hãy cho chúng tôi biết bạn sẽ đến tham dự nhé!</p>
+            <div class="form-container">
+                <div class="group-radio">
+
+
+                </div>
+                <div class="group-input bold-text" style="color: white;">
+                    <label>Tên Khách Mời</label>
+                    <input type="text" class="input" id="f_name" required="" placeholder="Tên Khách Mời"
+                        style="color: red;">
+                </div>
+
+                <div class="group-input">
+                    <p class="group-title"></p>
+                    <div class="group-select">
+                        <select name="" id="wedding-select" class="uk-text-truncate" style="max-width:320px">
+                            <option value="Có tôi sẽ đến" selected="selected">Có tôi sẽ đến </option>
+                            <option value="Xin Lỗi tôi không tham dự được !">Xin Lỗi tôi không tham dự được !
+                            </option>
+                        </select>
+                        <i class="bx bx-chevron-down"></i>
+                    </div>
+                    <div class="group-select">
+                        <select name="" id="num_user">
+                            <option value="1 Người" selected="selected">1 Người </option>
+                            <option value="2 Người">2 Người</option>
+                            <option value="3 Người">3 Người</option>
+                        </select>
+                        <i class="bx bx-chevron-down"></i>
+                    </div>
+                </div>
+                <div class="group-input">
+                    <label></label>
+                    <textarea name="" id="f_text" cols="30" rows="4">          </textarea>
+                </div>
+                <div class="message-form" style="display: none;">
+
+                </div>
+                <div class="group-input">
+                    <button type="submit" class="wedding-submit">Xác nhận</button>
+                </div>
+            </div>
+
+        </form>
+
+    </section>
+
+    <script>
+        //XỬ LÝ FORM
+        $(document).ready(function () {
+            $('.message-form').fadeOut(300)
+            $('#form').on('submit', function (e) {
+                e.preventDefault();
+                f_userName = "Vê Đăng-Minh Thư"
+                f_check = $('input[type="radio"]:checked').val()
+                f_name = $(this).find('#f_name').val()
+                f_numUser = $('#num_user').find('option:selected').val()
+                f_select = $('#wedding-select').find('option:selected').val()
+                f_text = $(this).find('#f_text').val()
+                var form_data = {
+                    'entry.864868914': f_userName,
+                    'entry.180013605': f_check,
+                    'entry.1366322799': f_name,
+                    'entry.191245282': f_numUser,
+                    'entry.586600612': f_select,
+                    'entry.718210620': f_text,
+                }
+                $('.wedding-submit[type="submit"]').text('Đang gửi ...')
+                $.ajax({
+                    url: "https://docs.google.com/forms/d/e/1FAIpQLSeYwyXe7diOTj8lR_QZSSsCWzVy2JnKgoCxV4U5zJyOL8N1cg/formResponse",
+                    type: "POST",
+                    data: form_data,
+                    dataType: "xml",
+                    statusCode: {
+                        0: function () {
+                            mess_form = 'Chúng mình xin chân thành cám ơn !'
+                            $('.message-form').html(mess_form)
+                            $('button[type="submit"]').addClass('success')
+                            $('button[type="submit"]').removeClass('btn_primary')
+                            $('button[type="submit"]').attr('disabled', 'true')
+                            $('button[type="submit"]').text('Đã xác nhận')
+                            $('.message-form').fadeIn(300)
+                        },
+                        200: function () {
+                            alert('200')
+                        }
+                    }
+                })
+            })
+            return false;
+        })
+    </script>
+    <!-- END FORM XÁC NHẬN -->
+
+
+
+
+    <!-- END FORM XÁC NHẬN -->
     <!-- ALBUM -->
     <section id="album" class="uk-section aos-init bold-text" data-aos="fade-up" data-aos-duration="3000">
         <div class="section-heading">
@@ -9473,65 +9639,6 @@
         }
     </style>
     <!-- END VIDEO -->
-    <!-- INVITATION -->
-    <section id="invitation" class="section-invitation">
-        <div class="container">
-            <div class="section-heading">
-                <h2 class="section-title">
-                </h2>
-            </div>
-            <div class="invitation">
-                <div class="invitation-container">
-                    <div class="invitation-card"> <img src="thiep/H2H02922.jpg" alt="">
-                        <h3 class="card-title uk-margin-remove bold-text" style="color: red;text-stroke: 5px yellow">
-                            TRÂN TRỌNG
-                            KÍNH MỜI</h3>
-                        <address class="uk-margin-remove">
-                            <p>Đến Dự Buổi Tiệc Rượu Chung Vui Cùng Gia Đình Chúng Tôi<br>tại<br></p>
-                            <h3 class="location-name2 bold-text bold-text">Trung Tâm Tiệc Cưới Happy Gold<br></h3>
-                            <p>650 Đ. Lũy Bán Bích, Tân Thành, Tân Phú, Hồ Chí Minh</p>
-                        </address>
-                        <div class="invitation-body">
-                            <div class="invi_time">
-                                <p class="fw-bold">Vào lúc
-                                    <span class="invi_hours">
-                                        11:30 </span>
-                                </p>
-                                <div class="invi_group_time">
-
-                                    <span class="invi_date_text">
-                                        Chủ Nhật </span>
-                                    <span class="invi_date_number">
-                                        <p class="invi_date">15</p> /
-                                        <p class="invi_month">12</p>
-                                    </span>
-                                    <span class="invi_year_text">
-                                        2024 </span>
-                                </div>
-
-                                <p class="invi_amlich">Nhằm ngày 15 tháng 11 năm Giáp Thìn</p>
-                            </div>
-
-                        </div>
-                        <div class="social-link">
-                            <a href="tel:(+84)862744290" class="phone_number">
-                                <i class="ri-phone-fill"></i>
-
-                                <a href="https://www.google.com/maps/place/Trung+T%C3%A2m+Ti%E1%BB%87c+C%C6%B0%E1%BB%9Bi+H%E1%BB%99i+Ngh%E1%BB%8B+Happy+Gold/@10.788858,106.6375023,15z/data=!4m2!3m1!1s0x0:0x981478cbf522879?sa=X&ved=1t:2428&ictx=111"
-                                    class="invi_map" target="_blank">
-                                    <i class="ri-map-2-fill"></i>
-                                </a>
-                        </div>
-
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- END INVITATION -->
-    <!-- DRESS CODE -->
-    <!-- END DRESS CODE -->
     <!-- COUNT DOWN -->
 
     <section id="countdown-secton" class="uk-background-cover uk-section uk-section-large uk-text-center uk-light"
@@ -9588,114 +9695,7 @@
 
     <!-- END COUNT DOWN -->
 
-    <!-- FORM XÁC NHẬN -->
-    <!-- FROM XÁC NHẬN -->
 
-
-    <section id="form" action="" class="uk-background-cover uk-section uk-section-large uk-text-center uk-light"
-        method="post" id="form-wedding" style="background-image:url(thiep/filecuoi/H2H02843.jpg)">
-        <form action="" method="post" id="form-wedding">
-            <h2 class=" uk-text-center script-font bold-text" style="color: white ">XÁC
-                NHẬN THAM DỰ
-            </h2>
-            <p class=" sub-title bold-text">Hãy cho chúng tôi biết bạn sẽ đến tham dự nhé!</p>
-            <div class="form-container">
-                <div class="group-radio">
-
-
-                </div>
-                <div class="group-input bold-text" style="color: white;">
-                    <label>Tên Khách Mời</label>
-                    <input type="text" class="input" id="f_name" required="" placeholder="Tên Khách Mời"
-                        style="color: red;">
-                </div>
-
-                <div class="group-input">
-                    <p class="group-title"></p>
-                    <div class="group-select">
-                        <select name="" id="wedding-select" class="uk-text-truncate" style="max-width:320px">
-                            <option value="Có tôi sẽ đến" selected="selected">Có tôi sẽ đến </option>
-                            <option value="Xin Lỗi tôi không tham dự được !">Xin Lỗi tôi không tham dự được !
-                            </option>
-                        </select>
-                        <i class="bx bx-chevron-down"></i>
-                    </div>
-                    <div class="group-select">
-                        <select name="" id="num_user">
-                            <option value="1 Người" selected="selected">1 Người </option>
-                            <option value="2 Người">2 Người</option>
-                            <option value="3 Người">3 Người</option>
-                        </select>
-                        <i class="bx bx-chevron-down"></i>
-                    </div>
-                </div>
-                <div class="group-input">
-                    <label></label>
-                    <textarea name="" id="f_text" cols="30" rows="4">          </textarea>
-                </div>
-                <div class="message-form" style="display: none;">
-
-                </div>
-                <div class="group-input">
-                    <button type="submit" class="wedding-submit">Xác nhận</button>
-                </div>
-            </div>
-
-        </form>
-
-    </section>
-
-    <script>
-        //XỬ LÝ FORM
-        $(document).ready(function () {
-            $('.message-form').fadeOut(300)
-            $('#form').on('submit', function (e) {
-                e.preventDefault();
-                f_userName = "Vê Đăng-Minh Thư"
-                f_check = $('input[type="radio"]:checked').val()
-                f_name = $(this).find('#f_name').val()
-                f_numUser = $('#num_user').find('option:selected').val()
-                f_select = $('#wedding-select').find('option:selected').val()
-                f_text = $(this).find('#f_text').val()
-                var form_data = {
-                    'entry.864868914': f_userName,
-                    'entry.180013605': f_check,
-                    'entry.1366322799': f_name,
-                    'entry.191245282': f_numUser,
-                    'entry.586600612': f_select,
-                    'entry.718210620': f_text,
-                }
-                $('.wedding-submit[type="submit"]').text('Đang gửi ...')
-                $.ajax({
-                    url: "https://docs.google.com/forms/d/e/1FAIpQLSeYwyXe7diOTj8lR_QZSSsCWzVy2JnKgoCxV4U5zJyOL8N1cg/formResponse",
-                    type: "POST",
-                    data: form_data,
-                    dataType: "xml",
-                    statusCode: {
-                        0: function () {
-                            mess_form = 'Chúng mình xin chân thành cám ơn !'
-                            $('.message-form').html(mess_form)
-                            $('button[type="submit"]').addClass('success')
-                            $('button[type="submit"]').removeClass('btn_primary')
-                            $('button[type="submit"]').attr('disabled', 'true')
-                            $('button[type="submit"]').text('Đã xác nhận')
-                            $('.message-form').fadeIn(300)
-                        },
-                        200: function () {
-                            alert('200')
-                        }
-                    }
-                })
-            })
-            return false;
-        })
-    </script>
-    <!-- END FORM XÁC NHẬN -->
-
-
-
-
-    <!-- END FORM XÁC NHẬN -->
 
     <!-- LỜI CHÚC -->
     <script>
