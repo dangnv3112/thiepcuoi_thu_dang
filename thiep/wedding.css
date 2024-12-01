@@ -490,7 +490,7 @@
 
     border: 1px solid rgb(176, 176, 176);
 
-    padding: 8px 10px;
+    padding: 8px 0px;
 
     text-align: center;
     font-size: 24px;
@@ -517,7 +517,7 @@ textarea {
 
     padding: 20px;
 
-    max-width:70%;
+    max-width:60%;
 
     margin:0 auto;
     font-size: 24px;
