@@ -423,13 +423,9 @@ padding-top: 0; text-align: center;
 .location-name2 {
     font-size: 40px;
     font-family: var(--title-font);
-    color: var(--text-yellow);
-    text-stroke: 1px red;
-    text-shadow: 
-    2px 3px 0 red, 
-    0px 0px 0 red, 
-    0px 0px 0 red, 
-    0px 0px 0 red;
+    color: red
+   
+ 
 }
 /* ABOUT */
 .about-section {
